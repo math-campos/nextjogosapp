@@ -1,7 +1,7 @@
 function SSG({ jogos }) {
     return (
         <div>
-            <h1>Meus Jogos - CSR</h1>
+            <h1>Meus Jogos - SSG</h1>
             <table>
                 <thead>
                     <tr>
